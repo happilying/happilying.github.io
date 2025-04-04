@@ -1,0 +1,13 @@
+site_name: "microgames'网页"
+site_url: "https://www.liusir.org"
+repo_url: "https://github.com/happilying/happilying.github.io"
+edit_uri: docs/
+site_author: "microgames"
+copyright: "Copyright © 2025 microgames.All Rights Reserved."
+site_description: "Just a blog!"
+nav:
+ - 主页: index.md
+ - 关于我: about.md
+theme:
+ name: material
+ language: zh
